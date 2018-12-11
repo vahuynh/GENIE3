@@ -10,7 +10,7 @@ PLoS ONE, 5(9):e12776, 2019.
 
 Four implementations of GENIE3 are available: Python, MATLAB, R/randomForest, and R/C. Each folder contains a PDF file with a step-by-step tutorial showing how to run the code.
 
-Note 1: The R/C implementation can also be installed from [Bioconductor](https://bioconductor.org/packages/devel/bioc/html/GENIE3.html). 
+Note 1: The R/C implementation can also be installed from [Bioconductor](https://bioconductor.org/packages/release/bioc/html/GENIE3.html). 
 
 Note 2: All the results presented in the *PLoS ONE* paper were generated using the MATLAB implementation.
 
